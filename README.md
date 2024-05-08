@@ -16,6 +16,10 @@ Via Ussd student can:
 view rooms,book rooms, Mantaince request, update requested mantainence, delete requested mantainence
 More over to that, a user can regiger by sending a message in incoming message handling
 ![image](https://github.com/uwayezdeveloper/USSD_21RP05462/assets/123085575/8b7d9cb7-7f4a-41ca-8211-3fc631296055)
+Also you will need to import database named as project.sql
+For ussd part It will be seems like this in phone
+![image](https://github.com/uwayezdeveloper/USSD_21RP05462/assets/123085575/ae7e63c1-7eb1-4aa6-9e59-20809790a9e4)
+
 
 
 
